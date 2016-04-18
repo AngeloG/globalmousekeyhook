@@ -5,7 +5,6 @@
 using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
-using System.Windows.Forms;
 using Gma.System.MouseKeyHook.Implementation;
 using Gma.System.MouseKeyHook.WinApi;
 

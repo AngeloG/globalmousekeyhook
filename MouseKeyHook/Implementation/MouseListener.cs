@@ -5,7 +5,6 @@
 using Gma.System.MouseKeyHook.WinApi;
 using System;
 using System.Runtime.InteropServices;
-using System.Windows.Forms;
 
 namespace Gma.System.MouseKeyHook.Implementation
 {

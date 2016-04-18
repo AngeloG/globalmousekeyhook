@@ -3,7 +3,6 @@
 // See license.txt or http://opensource.org/licenses/mit-license.php
 
 using System.Collections.Generic;
-using System.Windows.Forms;
 using Gma.System.MouseKeyHook.WinApi;
 
 namespace Gma.System.MouseKeyHook.Implementation
